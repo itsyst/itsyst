@@ -14,8 +14,8 @@
 [react]: http://reactjs.org
 [gatsby]: https://gatsbyjs.org
 [laravel]:https://laravel.com/
-[website]: https://comming-soon.com
-[twitter]: https://twitter.com/
+[website]: https://elhamzi.com
+[twitter]: https://twitter.com/KhaledElhamzi
 [linkedin]: https://se.linkedin.com/in/khaledelhamzi
 
 ---
