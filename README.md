@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </a>
 <br/>
 
-#### Hi, I'm Khaled 👏, Ambitious and proactive certified System Developer .NET driven by new challenges and collaborating with others. I ❤ getting involved in Problem Solving and I enjoy a lot working with React, VueJS, Angular and Django and I'am always hungry to learn new things.
+#### Hi, I'm Khaled 👏, ambitious and proactive certified System Developer .NET driven by new challenges and collaborating with others. I ❤ getting involved in Problem Solving and I enjoy a lot working with React, VueJS, Angular and Django and I'am always hungry to learn new things.
  
 - 💻 I’m currently working on Angular e-Commerce project.
 - 📚 I’m currently learning Python & Django ...
