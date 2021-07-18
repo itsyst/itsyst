@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> Hi there <img src="https://github.com/itsyst/itsyst/blob/main/gifs/wave.gif" width="30px"></h2>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/C1N2zsQ26TZW01yM0B/giphy.gif" />
 <img src="https://komarev.com/ghpvc/?username=itsyst"/> 
 <a href="https://elhamzi.me" target="_blank">
 <img align="left" alt="Khaled | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" />
