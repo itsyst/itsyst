@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 - 💻 I’m currently working on Angular e-Commerce project.
 - 📚 I’m currently learning Python & Django ...
 - 👨‍👨‍👦  I’m looking to collaborate on ...
-- 💬 Ask me about anything , Would love to answer them.<img src="https://github.com/itsyst/itsyst/blob/main/gifs/peace.gif" width="15px">
- 
+- 💬 Ask me anything, Would love to answer.<img src="https://github.com/itsyst/itsyst/blob/main/gifs/peace.gif" width="15px">
 #### 😂  Here is a random joke that'll make you laugh!
 
 <div align="left">
