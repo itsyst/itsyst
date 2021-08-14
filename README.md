@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 #### Hi, I'm Khaled 👏, ambitious and proactive certified System Developer .NET driven by new challenges and collaborating with others. I ❤ getting involved in Problem Solving and I enjoy a lot working with Aspp.Net Core, React, VueJS, Angular, Laravel, and Django and I'am always hungry to learn new things.
  
 - 💻 I’m currently working on Angular e-Commerce project.
-- 📚 I’m currently learning Python & Django ...
+- 📚 I’m currently learning Java & Spring ...
 - 👨‍👨‍👦  I’m looking to collaborate on ...
 - 💬 Ask me anything, Would love to answer.<img src="https://github.com/itsyst/itsyst/blob/main/gifs/peace.gif" width="15px">
 #### 😂  Here is a random joke that'll make you laugh!
@@ -46,6 +46,7 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/php%20-%23323331.svg?&style=for-the-badge&logo=php&logoColor=yellow"/>
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -56,7 +57,7 @@ Here are some ideas to get you started:
 <h1 align="center">GitHub statistics</h1>
 <div align="center" >
    <a href="https://github.com/itsyst" >
-     <img src="https://github-readme-stats.vercel.app/api?username=itsyst&hide_border=true&show_icons=true&count_private=true&langs_count=10"/>
+     <img src="https://github-readme-stats.vercel.app/api?username=itsyst&hide_border=true&show_icons=true&count_private=true&langs_count=20"/>
    </a>
   <a href="https://github.com/itsyst">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsyst&langs_count=20&hide=shell,lua,vim%20script,dockerfile,&hide_border=true&layout=compact"/>
