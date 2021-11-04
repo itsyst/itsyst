@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 #### 😂  Here is a random joke that'll make you laugh!
 
 <div align="left">
-  <img src="https://readme-jokes.vercel.app/api" alt="Welcome!" width="350px"/>
+  <img src="https://readme-jokes.vercel.app/api" alt="Welcome!" width="320px"/>
 </div>
 
 <div></div>
