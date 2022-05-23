@@ -13,32 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> Hi there <img src="https://github.com/itsyst/itsyst/blob/main/gifs/wave.gif" width="30px"></h2>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/C1N2zsQ26TZW01yM0B/giphy.gif" />
-<img src="https://komarev.com/ghpvc/?username=itsyst"/> 
-<a href="https://elhamzi.me" target="_blank">
-<img align="left" alt="Khaled | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" />
-</a>
-<a href="https://twitter.com/KhaledElhamzi" target="_blank">
-<img align="left" alt="Khaled | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/khaledelhamzi/" target="_blank">
-<img align="left" alt="Khaled | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<br/>
 
-#### Hi, I'm Khaled 👏, ambitious and proactive certified System Developer .NET driven by new challenges and collaborating with others. I ❤ getting involved in Problem Solving and I enjoy a lot working with Aspp.Net Core, React, VueJS, Angular, Laravel, and Django and I'am always hungry to learn new things.
- 
-- 💻 I’m currently working on Angular e-Commerce project.
-- 📚 I’m currently learning Java & Spring ...
-- 👨‍👨‍👦  I’m looking to collaborate on ...
-- 💬 Ask me anything, Would love to answer.<img src="https://github.com/itsyst/itsyst/blob/main/gifs/peace.gif" width="15px">
-#### 😂  Here is a random joke that'll make you laugh!
-
-<div align="left">
-  <img src="https://readme-jokes.vercel.app/api" alt="Welcome!" width="320px"/>
+<div align="center">
+ <img src="https://i.ibb.co/wSXpH5D/about.png" alt="about" border="0"> 
+ <img src="https://media.giphy.com/media/C1N2zsQ26TZW01yM0B/giphy.gif" alt="KEL" width="420px"/>
 </div>
+<br>
 
-<div></div>
 <h1 align="center">Skills</h1>
 <div align="center">   
    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -53,6 +34,14 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
    <img src="https://img.shields.io/badge/laravel%20-%23F05033.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
 </div>
+<br>
+
+ <div align="center">
+  <a href="https://github.com/itsyst">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khaled's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itsyst&theme=default&hide_border=false&"/>
+  </a>
+ </div>
+ 
 <div></div>
 <h1 align="center">GitHub statistics</h1>
 <div align="left" >
