@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h2> Hi there <img src="https://github.com/itsyst/itsyst/blob/main/gifs/wave.gif" width="30px"></h2>
 
 <div align="center">
- <img align="left" src="https://i.ibb.co/wSXpH5D/about.png" alt="about" border="0"/>
+ <img align="left" src="https://github.com/itsyst/itsyst/blob/main/gifs/about.png" alt="about" border="0"/>
  <img  align="right" src="https://media.giphy.com/media/C1N2zsQ26TZW01yM0B/giphy.gif" alt="KEL" width="320" height="400"/>
 </div>
 
