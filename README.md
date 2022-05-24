@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 <h2> Hi there <img src="https://github.com/itsyst/itsyst/blob/main/gifs/wave.gif" width="30px"></h2>
 
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=itsyst"/> 
 <a href="https://elhamzi.me" target="_blank">
 <img align="left" alt="Khaled | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" />
@@ -25,7 +26,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/khaledelhamzi/" target="_blank">
 <img align="left" alt="Khaled | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br/>
+</div>
+ 
+<br clear="left">
 
 <div align="center">
  <img align="left" src="https://github.com/itsyst/itsyst/blob/main/gifs/about.png" alt="about" border="0"/>
