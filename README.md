@@ -15,6 +15,18 @@ Here are some ideas to get you started:
 
 <h2> Hi there <img src="https://github.com/itsyst/itsyst/blob/main/gifs/wave.gif" width="30px"></h2>
 
+<img src="https://komarev.com/ghpvc/?username=itsyst"/> 
+<a href="https://elhamzi.me" target="_blank">
+<img align="left" alt="Khaled | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" />
+</a>
+<a href="https://twitter.com/KhaledElhamzi" target="_blank">
+<img align="left" alt="Khaled | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/khaledelhamzi/" target="_blank">
+<img align="left" alt="Khaled | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br/>
+
 <div align="center">
  <img align="left" src="https://github.com/itsyst/itsyst/blob/main/gifs/about.png" alt="about" border="0"/>
  <img  align="right" src="https://media.giphy.com/media/C1N2zsQ26TZW01yM0B/giphy.gif" alt="KEL" width="320" height="400"/>
