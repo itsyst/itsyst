@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hi there <img src="https://github.com/itsyst/itsyst/blob/main/gifs/wave.gif" width="30px"></h2>
+<h2> Hi there <img src="https://github.com/itsyst/itsyst/blob/main/gifs/wave.gif" width="30" hight="30"></h2>
 
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=itsyst"/> 
