@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hi there <img src="https://github.com/itsyst/itsyst/blob/main/gifs/wave.gif" width="30" hight="30"></h2>
+<h2> Hi there <img src="https://github.com/itsyst/itsyst/blob/main/assets/wave.gif" width="30" hight="30"></h2>
 
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=itsyst"/> 
@@ -31,10 +31,12 @@ Here are some ideas to get you started:
 <br clear="left">
 
 <div align="center">
- <img align="left" src="https://github.com/itsyst/itsyst/blob/main/gifs/about.png" alt="about" border="0"/>
+ <img align="left" src="https://github.com/itsyst/itsyst/blob/main/assets/about.png" alt="about" border="0"/>
  <img  align="right" src="https://media.giphy.com/media/C1N2zsQ26TZW01yM0B/giphy.gif" alt="KEL" width="320" height="400"/>
 </div>
 
+![](https://raw.githubusercontent.com/itsyst/itsyst/main/assets/github-snake.gif)
+ 
 <br clear="left">
 
 <h1 align="center">Skills</h1>
