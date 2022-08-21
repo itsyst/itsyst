@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 </div>
 
 ![](https://raw.githubusercontent.com/itsyst/itsyst/main/assets/github-snake.gif)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fitsyst%2Fecommerce-books-store&label=VISITORS%20TODAY&countColor=%2337d67a)
  
 <br clear="left">
 
