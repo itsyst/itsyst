@@ -66,15 +66,5 @@ Here are some ideas to get you started:
  
 <div></div>
 
-<h1 align="center">GitHub statistics</h1>
-<div align="left" >
-    <a href="https://github.com/itsyst">
-     <img src="https://github-readme-stats.vercel.app/api?username=itsyst&hide_border=true&show_icons=true&count_private=true&langs_count=20" width="500" height="200"/>
-   </a>
-   <a href="https://github.com/itsyst">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsyst&langs_count=20&hide=shell,lua,vim%20script,dockerfile,&hide_border=true&layout=compact" width="300" height="200"/>
-   </a> 
-</div>
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G834SUA)
 
