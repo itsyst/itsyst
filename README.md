@@ -3,16 +3,16 @@
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=itsyst"/> 
   <a href="https://elhamzi.me" target="_blank">
-    <img align="left" alt="Khaled | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" />
+    <img align="left" alt="Khaled | Portfolio" width="22px" src="https://cdn.simpleicons.org/firefox/FFFFFF" />
   </a>
   <a href="https://twitter.com/KhaledElhamzi" target="_blank">
-    <img align="left" alt="Khaled | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img align="left" alt="Khaled | Twitter" width="22px" src="https://cdn.simpleicons.org/x/FFFFFF" />
   </a>
   <a href="https://www.linkedin.com/in/khaledelhamzi/" target="_blank">
-    <img align="left" alt="Khaled | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="left" alt="Khaled | Linkedin" width="22px" src="https://cdn.simpleicons.org/linkedin/FFFFFF" />
   </a>
   <a href="https://www.patreon.com/cw/itsyst" target="_blank">
-    <img align="left" alt="Khaled | Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/patreon.svg" />
+    <img align="left" alt="Khaled | Patreon" width="22px" src="https://cdn.simpleicons.org/patreon/FFFFFF" />
   </a>
 </div>
  
