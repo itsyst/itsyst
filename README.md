@@ -9,7 +9,7 @@
     <img align="left" alt="Khaled | Twitter" width="22px" src="https://cdn.simpleicons.org/x/FFFFFF" />
   </a>
   <a href="https://www.linkedin.com/in/khaledelhamzi/" target="_blank">
-    <img align="left" alt="Khaled | Linkedin" width="22px" src="https://cdn.simpleicons.org/linkedin/FFFFFF" />
+    <img align="left" alt="Khaled | Linkedin" width="22px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
   </a>
   <a href="https://www.patreon.com/cw/itsyst" target="_blank">
     <img align="left" alt="Khaled | Patreon" width="22px" src="https://cdn.simpleicons.org/patreon/FFFFFF" />
