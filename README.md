@@ -9,7 +9,7 @@
     <img align="left" alt="Twitter" width="22px" src="https://cdn.simpleicons.org/x/FFFFFF" />
   </a>
   <a href="https://www.linkedin.com/in/khaledelhamzi/" target="_blank">
-    <img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/FFFFFF" />
+    <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
   </a>
   <a href="https://www.patreon.com/cw/itsyst" target="_blank">
     <img align="left" alt="Patreon" width="22px" src="https://cdn.simpleicons.org/patreon/FFFFFF" />
