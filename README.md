@@ -3,16 +3,16 @@
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=itsyst"/> 
   <a href="https://elhamzi.me" target="_blank">
-    <img align="left" alt="Khaled | Portfolio" width="22px" src="https://cdn.simpleicons.org/firefox/FFFFFF" />
+    <img align="left" alt="Portfolio" width="22px" src="https://cdn.simpleicons.org/firefox/FFFFFF" />
   </a>
   <a href="https://twitter.com/KhaledElhamzi" target="_blank">
-    <img align="left" alt="Khaled | Twitter" width="22px" src="https://cdn.simpleicons.org/x/FFFFFF" />
+    <img align="left" alt="Twitter" width="22px" src="https://cdn.simpleicons.org/x/FFFFFF" />
   </a>
   <a href="https://www.linkedin.com/in/khaledelhamzi/" target="_blank">
-    <img align="left" alt="Khaled | Linkedin" width="22px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+    <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
   </a>
   <a href="https://www.patreon.com/cw/itsyst" target="_blank">
-    <img align="left" alt="Khaled | Patreon" width="22px" src="https://cdn.simpleicons.org/patreon/FFFFFF" />
+    <img align="left" alt="Patreon" width="22px" src="https://cdn.simpleicons.org/patreon/FFFFFF" />
   </a>
 </div>
  
