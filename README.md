@@ -34,6 +34,43 @@ Currently focused on:
 
 ---
 
+### 📦 77+ Repos – Peotron & Café
+
+I have **more than 77 repositories** on GitHub with full-stack apps, labs, tools, and experiments.  
+Many of them are organized under **Peotron** and **Café** projects.
+
+To get access:
+- Join my **Discord** server  
+- Look for the **Peotron / Café** channels and links there  
+
+On Discord you’ll find:
+- Direct links to private repos
+- Setup instructions
+- Roadmaps and upcoming projects
+
+Some highlighted repos you can find (via Discord):
+
+- `ecommerce-books-store` – ASP.NET Core MVC, .NET 8, N-Tier, Stripe  
+- `razor-pages-book-store` – .NET 6 Razor Pages, Repository + Unit of Work  
+- `terra-scape-vuejs` & `terra-scape-vuejs-backend` – Vue 3 + Node/Express + PayPal  
+- `redux-wrap-up` – React + Redux Toolkit bug tracker with drag & drop  
+- `react-query-fetch` – Vite + React + TypeScript + React Query  
+- `orera-app` – Real-time student chat with Vue + Firebase + Quasar  
+- `datastructures-algorithms` – DSA practice in C#, Java, JS, Python, PHP  
+- `python-labbar` & `java-labbar` – University labs and playgrounds  
+- `assembly-lab` – ATmega-style assembly experiments  
+
+> 💡 Tip: If you want a specific repo opened or explained, ask in Discord and I’ll prioritize it.
+
+<!-- 
+Add screenshots here later, for example:
+
+![ecommerce-books-store](./assets/screenshots/ecommerce-books-store.png)
+![terra-scape-vuejs](./assets/screenshots/terra-scape-vuejs.png)
+-->
+
+---
+
 ### 🛠️ Skills
 
 <p align="center">
@@ -53,7 +90,11 @@ Currently focused on:
 
 <div align="center">
   <a href="https://github.com/itsyst">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khaled's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itsyst&theme=default&hide_border=false"/>
+    <img
+      title="🔥 Get streak stats for your profile at git.io/streak-stats"
+      alt="Khaled's streak"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=itsyst&theme=default&hide_border=false"
+    />
   </a>
 </div>
 
@@ -74,3 +115,4 @@ If you find my projects or content useful, you can support me here:
 </p>
 
 Your support helps me keep creating full source code projects and free learning resources. Thank you! 🙏
+
