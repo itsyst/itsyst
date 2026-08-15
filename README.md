@@ -53,7 +53,7 @@ Currently focused on:
 
 <div align="center">
   <a href="https://github.com/itsyst">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khaled's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itsyst&theme=default&hide_border=false&"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khaled's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itsyst&theme=default&hide_border=false"/>
   </a>
 </div>
 
